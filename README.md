@@ -4,13 +4,13 @@ En este repositorio están listados los módulos respectivos del diplomado.
 
 ## Módulos
 
-* [Publicación en la web](http://visualizacion-uc.github.io/publicacion-en-la-web)
-* [Introducción Datos](http://visualizacion-uc.github.io/introduccion-datos)
-* [Introducción Bases de Datos](http://visualizacion-uc.github.io/introduccion-base-de-datos)
-* [Introducción D3](http://visualizacion-uc.github.io/introduccion-js-d3)
-* [Integración Datos D3](http://visualizacion-uc.github.io/integracion-datos-d3)
-* [Procesamiento y Análisis de Datos](http://visualizacion-uc.github.io/procesamiento-y-analisis-de-datos)
-* [Análisis Exploratorio de Datos y Principios de Estadística](http://visualizacion-uc.github.io/analisis-exploratorio-de-datos-y-principios-de-estadistica)
+* [Publicación en la web](http://visualizacionuc.github.io/publicacion-en-la-web)
+* [Introducción Datos](http://visualizacionuc.github.io/introduccion-datos)
+* [Introducción Bases de Datos](http://visualizacionuc.github.io/introduccion-base-de-datos)
+* [Introducción D3](http://visualizacionuc.github.io/introduccion-js-d3)
+* [Integración Datos D3](http://visualizacionuc.github.io/integracion-datos-d3)
+* [Procesamiento y Análisis de Datos](http://visualizacionuc.github.io/procesamiento-y-analisis-de-datos)
+* [Análisis Exploratorio de Datos y Principios de Estadística](http://visualizacionuc.github.io/analisis-exploratorio-de-datos-y-principios-de-estadistica)
 
 ## Bajo Licencia MIT
 
