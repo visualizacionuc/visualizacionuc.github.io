@@ -11,6 +11,7 @@ En este repositorio están listados los módulos respectivos del diplomado.
 * [Integración Datos D3](http://visualizacionuc.github.io/integracion-datos-d3)
 * [Procesamiento y Análisis de Datos](http://visualizacionuc.github.io/procesamiento-y-analisis-de-datos)
 * [Análisis Exploratorio de Datos y Principios de Estadística](http://visualizacionuc.github.io/analisis-exploratorio-de-datos-y-principios-de-estadistica)
+* [Herramientas de visualización](http://visualizacionuc.github.io/herramientas-visualizacion)
 
 ## Bajo Licencia MIT
 
